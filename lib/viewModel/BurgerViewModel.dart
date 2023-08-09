@@ -34,7 +34,7 @@ class BurgerViewModel extends ChangeNotifier {
       // Parcourir chaque burger dans la liste de burgers
       for (var burger in burgers!) {
 
-        // Déclarer une variable pour stocker le prix formaté du burger
+
         //double priceFormatted;
 
         // Si le prix du burger est supérieur à 20000 centimes, divisez-le par 10000 pour obtenir le prix en euros
